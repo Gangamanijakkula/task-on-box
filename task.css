@@ -1,0 +1,61 @@
+*{
+    background-color: bisque;
+}
+.HTML1{
+    background-color: pink;
+    padding: 20px;
+    width: 900px;
+    border: 5px violet groove;
+    margin: 20px;
+}
+.HTML2{
+    background-color: lightskyblue;
+    padding: 20px;
+    width: 900px;
+    border: 5px blue groove;
+    margin: 20px;
+}
+.HTML3{
+    background-color: lightgreen;
+    padding: 20px;
+    width: 900px;
+    border: 5px green groove;
+    margin: 20px;
+}
+.HTML4{
+    background-color: rgb(184, 184, 9);
+    padding: 20px;
+    width: 900px;
+    border: 5px yellow groove;
+    margin: 20px;
+}
+.HTML5{
+    background-color: lightcoral;
+    padding: 20px;
+    width: 900px;
+    border: 5px brown groove;
+    margin: 20px;
+}
+ h2{
+    background-color: skyblue;
+    padding: 20px ;
+    border: 5px groove blue ;
+    margin: 20px ;
+    width: 100px;
+}
+img{
+    border:10px darkgray groove;
+}
+h3{
+    background-color: rgb(166, 96, 5);
+    padding: 10px;
+    border: 5px rgb(239, 178, 25) double;
+    margin: 20px;
+    width: 100px;
+}
+p{
+    background-color: lightgoldenrodyellow;
+    color: brown;
+    border: 5px rebeccapurple groove;
+    width: 800px;
+}

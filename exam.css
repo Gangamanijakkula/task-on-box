@@ -1,0 +1,28 @@
+*{
+    background-color: lightcyan;
+
+}
+h3{
+    color: red;
+}
+p{
+    color: green;
+}
+td{
+    color: deeppink;
+}
+ul{
+    color: blue;
+}
+tr{
+    color: darkgoldenrod;
+}
+button{
+    color: darkorange;
+}
+select{
+    color: brown;
+}
+li{
+    color: blue;
+}
