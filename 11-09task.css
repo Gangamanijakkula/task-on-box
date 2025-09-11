@@ -1,0 +1,67 @@
+first-container{
+    width: 1550px;
+    height: 80px;
+    padding: 10px;
+    /* border: 5px solid; */
+    position: relative;
+}
+.right-container{
+    width: 400px;
+    height: 10px;
+    /* margin: 10px; */
+    position: absolute;
+    right: 0;
+    padding: 5px;
+    top: 0;
+    font-size: 30px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    position: absolute;
+}
+h3{
+    width: 300px;
+    height: 50px;
+    /* margin: 10px; */
+    position: absolute;
+    padding: 5px;
+    left: 650px;
+    top: 550px;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+
+}
+.project{
+    width: 1550px;
+    height: 50px;
+    font-size: 30px;
+    margin: 0px;
+    padding: 5px;
+    top: 10px;    
+}
+.image1{
+    width: 340px;
+    height: 330px;
+    display: inline-block;
+    margin: 10px;
+    /* border: 5px solid; */
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+}
+p{
+    width: 250px;
+    height: 50px;
+    /* border: 5px solid; */
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 7px;
+    position: absolute;
+    top: 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
