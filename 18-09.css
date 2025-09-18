@@ -1,0 +1,25 @@
+.continer-1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+.continer-2{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+.continer-3{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 5px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    text-align: center;
+}
