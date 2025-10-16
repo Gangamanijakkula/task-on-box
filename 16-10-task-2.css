@@ -1,0 +1,80 @@
+.container{
+    display: grid;
+    padding: 10px;
+    height: 100vh;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-areas: 
+    "a b c"
+    "a b d"
+    "a e d"
+    "a f g"
+    "a h g"
+    "i h g"
+    "i h j"
+    "k h j"
+    "m l j"
+    "m l n"
+    "o l p"
+    "o q p"
+    "r q p";
+    
+}
+.item>img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.item-1{
+    grid-area: a;
+}
+.item-2{
+    grid-area: b;
+}
+.item-3{
+    grid-area: c;
+}
+.item-4{
+    grid-area: d;
+}
+.item-5{
+    grid-area: e;
+}
+.item-6{
+    grid-area: f;
+}
+.item-7{
+    grid-area: g;
+}
+.item-8{
+    grid-area: h;
+}
+.item-9{
+    grid-area: i;
+}
+.item-10{
+    grid-area: j;
+}
+.item-11{
+    grid-area: k;
+}
+.item-12{
+    grid-area: l;
+}
+.item-13{
+    grid-area: m;
+}
+.item-14{
+    grid-area: n;
+}
+.item-15{
+    grid-area: o;
+}
+.item-16{
+    grid-area: p;
+}
+.item-17{
+    grid-area: q;
+}
+.item-18{
+    grid-area: r;
+}
